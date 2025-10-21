@@ -2,6 +2,6 @@
 
 Implementation of the HeadSoccer game using C++
 
-If you don't want to run the code, You can watch "HeadFootballOutput"
+If you don't want to run the code, You can watch "HeadFootballOutput.mp4"
 
 ![Alt text](HeadFootball.png)
